@@ -1,0 +1,1 @@
+# discord-mfa-fix-vanity-url-sniper
