@@ -1,1 +1,1 @@
-# discord-mfa-fix-vanity-url-sniper
+çok uzatmaya gerek yok hesabımın hitabındakı türemenin kodu
